@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'socicon';
+  src: url('font/socicon-webfont.eot');
+  src: url('font/socicon-webfont.eot?#iefix') format('embedded-opentype'),
+  url('font/socicon-webfont.woff') format('woff'),
+  url('font/socicon-webfont.woff2') format('woff2'),
+  url('font/socicon-webfont.ttf') format('truetype'),
+  url('font/socicon-webfont.svg#sociconregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  text-transform: initial;
+}
+.socicon {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'socicon';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.socicon:empty { width: 1em; }
+/*************************************** Classes *******************/
+.socicon.socicon-twitter:before { content: "a"; }
+.socicon.socicon-facebook:before { content: "b"; }
+.socicon.socicon-google:before { content: "c"; }
+.socicon.socicon-pinterest:before { content: "d"; }
+.socicon.socicon-foursquare:before { content: "e"; }
+.socicon.socicon-yahoo:before { content: "f"; }
+.socicon.socicon-skype:before { content: "g"; }
+.socicon.socicon-yelp:before { content: "h"; }
+.socicon.socicon-feedburner:before { content: "i"; }
+.socicon.socicon-linkedin:before { content: "j"; }
+.socicon.socicon-viadeo:before { content: "k"; }
+.socicon.socicon-xing:before { content: "l"; }
+.socicon.socicon-myspace:before { content: "m"; }
+.socicon.socicon-soundcloud:before { content: "n"; }
+.socicon.socicon-spotify:before { content: "o"; }
+.socicon.socicon-grooveshark:before { content: "p"; }
+.socicon.socicon-lastfm:before { content: "q"; }
+.socicon.socicon-youtube:before { content: "r"; }
+.socicon.socicon-vimeo:before { content: "s"; }
+.socicon.socicon-dailymotion:before { content: "t"; }
+.socicon.socicon-vine:before { content: "u"; }
+.socicon.socicon-flickr:before { content: "v"; }
+.socicon.socicon-500px:before { content: "w"; }
+.socicon.socicon-instagram:before { content: "x"; }
+.socicon.socicon-wordpress:before { content: "y"; }
+.socicon.socicon-tumblr:before { content: "z"; }
+.socicon.socicon-blogger:before { content: "A"; }
+.socicon.socicon-technorati:before { content: "B"; }
+.socicon.socicon-reddit:before { content: "C"; }
+.socicon.socicon-dribbble:before { content: "D"; }
+.socicon.socicon-stumbleupon:before { content: "E"; }
+.socicon.socicon-digg:before { content: "F"; }
+.socicon.socicon-envato:before { content: "G"; }
+.socicon.socicon-behance:before { content: "H"; }
+.socicon.socicon-delicious:before { content: "I"; }
+.socicon.socicon-deviantart:before { content: "J"; }
+.socicon.socicon-forrst:before { content: "K"; }
+.socicon.socicon-playstore:before { content: "L"; }
+.socicon.socicon-zerply:before { content: "M"; }
+.socicon.socicon-wikipedia:before { content: "N"; }
+.socicon.socicon-apple:before { content: "O"; }
+.socicon.socicon-flattr:before { content: "P"; }
+.socicon.socicon-github:before { content: "Q"; }
+.socicon.socicon-chimein:before { content: "R"; }
+.socicon.socicon-friendfeed:before { content: "S"; }
+.socicon.socicon-newsvine:before { content: "T"; }
+.socicon.socicon-identica:before { content: "U"; }
+.socicon.socicon-bebo:before { content: "V"; }
+.socicon.socicon-zynga:before { content: "W"; }
+.socicon.socicon-steam:before { content: "X"; }
+.socicon.socicon-xbox:before { content: "Y"; }
+.socicon.socicon-windows:before { content: "Z"; }
+.socicon.socicon-outlook:before { content: "1"; }
+.socicon.socicon-coderwall:before { content: "2"; }
+.socicon.socicon-tripadvisor:before { content: "3"; }
+.socicon.socicon-appnet:before { content: "4"; }
+.socicon.socicon-goodreads:before { content: "5"; }
+.socicon.socicon-tripit:before { content: "6"; }
+.socicon.socicon-lanyrd:before { content: "7"; }
+.socicon.socicon-slideshare:before { content: "8"; }
+.socicon.socicon-buffer:before { content: "9"; }
+.socicon.socicon-rss:before { content: ","; }
+.socicon.socicon-vkontakte:before { content: ";"; }
+.socicon.socicon-disqus:before { content: ":"; }
+.socicon.socicon-houzz:before { content: "+"; }
+.socicon.socicon-mail:before { content: "@"; }
+.socicon.socicon-patreon:before { content: "="; }
+.socicon.socicon-paypal:before { content: "-"; }
+.socicon.socicon-playstation:before { content: "^"; }
+.socicon.socicon-smugmug:before { content: "¨"; }
+.socicon.socicon-swarm:before { content: "$"; }
+.socicon.socicon-triplej:before { content: "*"; }
+.socicon.socicon-yammer:before { content: "&"; }
+.socicon.socicon-stackoverflow:before { content: "("; }
+.socicon.socicon-drupal:before { content: "#"; }
+.socicon.socicon-odnoklassniki:before { content: "."; }
+.socicon.socicon-android:before { content: "_"; }
+.socicon.socicon-meetup:before { content: "]"; }
+.socicon.socicon-persona:before { content: ")"; }
