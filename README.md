@@ -18,7 +18,7 @@ Add in `composer.json`:
 ```
 {
     "require": {
-        "rmrevin/yii2-socicon": "1.0.0"
+        "rmrevin/yii2-socicon": "~1.1"
     }
 }
 ```

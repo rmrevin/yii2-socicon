@@ -22,6 +22,6 @@ class AssetBundle extends \yii\web\AssetBundle
      * @inherit
      */
     public $css = [
-        'socicon.css',
+        'styles.css',
     ];
 }
